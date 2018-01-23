@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+Answer: Initializing a repository adds a new hidden file to the directory named .git.
+To do this you only need to type "git init" within the directory.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Answer: The staging area only contains the files from the working directory that you
+want to commit. While the repository contains files that have already been committed.
+The staging area ensures that you can select the files from the working directory that
+you want to commit and that you don't have to commit all the files in the working director
+all at once
