@@ -9,3 +9,7 @@ want to commit. While the repository contains files that have already been commi
 The staging area ensures that you can select the files from the working directory that
 you want to commit and that you don't have to commit all the files in the working director
 all at once
+
+How can you use the staging area to make sure you have one commit per logical change?
+Every logical change should be added singly from the working directory to the working area.
+And each one should be singly committed to the repository.
