@@ -19,3 +19,6 @@ How would branches help?
 Answer: When you want to try out something new or something experimental branching out of the
 main commit to make your changes is useful. Every branch is given a name for easy identification.
 Branches will ensure that the main branch remains intact.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help to know what commit is derived from what and how the branches are related.
