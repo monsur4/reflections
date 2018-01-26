@@ -22,3 +22,9 @@ Branches will ensure that the main branch remains intact.
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help to know what commit is derived from what and how the branches are related.
+
+What is the result of merging two branches together? Why do we represent it in the diagram
+the way we do?
+Answer: The result is a new commit that contains changes added to or removed from the two
+branches. It is represented diagrammatically so that the line of branching and merging can
+be easily appreciated
