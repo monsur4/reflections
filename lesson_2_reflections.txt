@@ -28,3 +28,10 @@ the way we do?
 Answer: The result is a new commit that contains changes added to or removed from the two
 branches. It is represented diagrammatically so that the line of branching and merging can
 be easily appreciated
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The con includes that git cannot tell which of the parts of the two versions of the files
+that should be kept but by doing it manually, you can read through the code and decide what
+part of the files should be left in the final copy and what part is redundant. Maybe the pros
+of automatic merging is that it is fast and you don't have to go into the code to do it
+yourself.
