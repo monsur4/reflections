@@ -1,2 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
+Answer: a situation may arise whereby you have no access to your local computer,
+in such a case you can add files directly to your remove repository. Secondly,
+if the files you want to add to your remote repository is a simple text file
+not requiring any codes then there is no point going through the process of first
+creating it in your local repository and then pushing it to GitHub when you can
+just create a new text file directly on GitHub and save you the time and stress.
