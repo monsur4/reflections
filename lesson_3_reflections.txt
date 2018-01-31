@@ -7,3 +7,9 @@ not requiring any codes then there is no point going through the process of firs
 creating it in your local repository and then pushing it to GitHub when you can
 just create a new text file directly on GitHub and save you the time and stress.
 That's what I think!
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+Pulling changes manually allows you to carefully select the changes that you
+would want to have in your local repository instead of all the changes being
+added for you.
