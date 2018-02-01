@@ -21,3 +21,10 @@ It is a term reserved for such actions on GitHub. A clone is simply a copy of a
 GitHub repository to your local computer or a copy from one part of your computer
 to another. Finally, branches are a diversion from the main line of commit
 (called master). They are used for experimental changes of trying out new features.
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+Well, knowing where your origin/master branch (or remote commit) starts
+from allows you to at least remember that you've not pushed your changes to the
+remote GitHub repository yet. That way you don't forget to include the changes in
+to GitHub repository.
