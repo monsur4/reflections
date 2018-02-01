@@ -28,3 +28,13 @@ Well, knowing where your origin/master branch (or remote commit) starts
 from allows you to at least remember that you've not pushed your changes to the
 remote GitHub repository yet. That way you don't forget to include the changes in
 to GitHub repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+If you mean online, then you may collaborate by making changes in a file and
+highlight the changes you've added while crossing out what you deleted. There has
+to be a way for those you're collaborating with to understand the changes you are
+making. And it could be much stress. This git and GitHub method is a generalized
+and easy way. Maybe something else that's easier can be made in the future, but
+right now I don't know any other easier way. The method I described above would be
+harder
