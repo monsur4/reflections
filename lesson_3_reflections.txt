@@ -38,3 +38,13 @@ making. And it could be much stress. This git and GitHub method is a generalized
 and easy way. Maybe something else that's easier can be made in the future, but
 right now I don't know any other easier way. The method I described above would be
 harder
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+If I am working on a personal project or a collaborative project, I would want
+to make changes in a separate branch when I'm trying out an experimental feature,
+or a feature that I am not sure is going to work eventually.
+But if I'm working on a collaborative project, the best thing to do from what
+I've learnt is to always make my changes on a separate branch and having others
+review it before merging it to the main branch.
+Making changes on the main branch should work for something like bug fixes.
